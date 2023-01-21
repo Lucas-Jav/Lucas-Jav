@@ -18,6 +18,8 @@
 <a href="https://www.instagram.com/dev_lucasoliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
   
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Lucas-Jav&theme=gotham&hide_border=true&area=true)
+  
   ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;

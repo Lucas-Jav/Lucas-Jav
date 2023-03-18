@@ -17,8 +17,11 @@
 <div align="center">  
 <a href="https://www.instagram.com/dev_lucasoliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
+  <br>
+  
   
 [![Lucas Oliveira github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lucas-Jav&bg_color=058182&color=ffffff&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
   
   ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;

@@ -20,7 +20,7 @@
   <br>
   
   
-[![Lucas Oliveira github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lucas-Jav&bg_color=058182&color=ffffff&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/Lucas-Jav/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Jav&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   
   ### Main skills:

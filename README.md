@@ -40,15 +40,17 @@
 ### Other Knowledge:
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Scss](https://img.shields.io/badge/-scss-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
-  ![npm](https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117)&nbsp;
-  ![json](https://img.shields.io/badge/-json-0D1117?style=for-the-badge&logo=json&labelColor=0D1117)&nbsp;
+![npm](https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117)&nbsp;
+![json](https://img.shields.io/badge/-json-0D1117?style=for-the-badge&logo=json&labelColor=0D1117)&nbsp;
+![Web scraping](https://img.shields.io/badge/-webscraping-0D1117?style=for-the-badge&logo=webscraping&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Web scraping](https://img.shields.io/badge/-webscraping-0D1117?style=for-the-badge&logo=webscraping&labelColor=0D1117)&nbsp;
-![c](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+![Node.js](https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mongoDb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)&nbsp;
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

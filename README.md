@@ -91,20 +91,8 @@ Strategic browser game built with React, TypeScript and Vite.
 - Lighthouse performance improved from 59 to 90+
 - Four languages, WCAG accessibility and SEO
 
-[View project](https://www.lucasdevbr.com/)
+[View project](https://dice-saga.lucasdevbr.online/)
 
-### Web Automation and RPA
-
-Production automation projects involving:
-
-- Product catalogue synchronisation
-- Price and stock updates
-- Automated order placement
-- Purchase history and invoice retrieval
-- Authentication and browser-session management
-- Resilient retries and failure recovery
-
-Some professional repositories are private due to confidentiality requirements.
 
 ---
 
